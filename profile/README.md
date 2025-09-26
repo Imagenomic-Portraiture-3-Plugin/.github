@@ -19,6 +19,7 @@ Retouching portraits can be time-consuming and technically demanding. **Portrait
 * Apply precise retouching only where needed.
 * Maintain realistic pores, hair, and fine edges.
 * Speed up workflow for bulk or studio editing.
+<img width="1000" height="658" alt="image" src="https://github.com/user-attachments/assets/b4b06651-e3ea-496f-a62e-f473f2fbd0f9" />
 
 ---
 
@@ -30,6 +31,7 @@ Retouching portraits can be time-consuming and technically demanding. **Portrait
 * **Edge-Aware Retouching:** Protects hair, eyelashes, and background details.
 * **Batch Processing:** Retouch multiple images at once.
 * **Advanced Controls:** Fine-tune softness, warmth, contrast, and color balance.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9a955107-87a1-443b-8af7-b2c2e2aae023" />
 
 ---
 
@@ -80,6 +82,7 @@ C --> D[Adjust Retouching Settings]
 D --> E[Preview Before/After]
 E --> F[Apply & Export Final Image]
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6fd1fca9-23ba-4f30-964f-4a999d9a6a8c" />
 
 ---
 
